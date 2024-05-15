@@ -4,6 +4,24 @@
 
 You can vite the live site at https://zarakiliz.github.io/my-portfolio/
 
+## Running Locally
+
+After downloading the zip file of this project, follow these steps:
+
+1. Navigate to the project directory
+
+2. Open VS Code 
+
+3. Open a new terminal in VS Code
+
+4. Navigate to the app in the project directory
+
+5. Install dependencies 
+    npm install
+
+6. Start the development server 
+    npm run dev
+
 ## Features
  
 - Home page with a introduction  
