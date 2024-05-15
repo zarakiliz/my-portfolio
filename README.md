@@ -2,7 +2,7 @@
 
 ## Demo 
 
-You can vite the live site at https://zarakiliz.github.io/portfolio/
+You can vite the live site at https://zarakiliz.github.io/my-portfolio/
 
 ## Features
  
